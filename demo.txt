@@ -1,2 +1,5 @@
 new file created for learning git pull command
 second line
+line no 3
+line on 5
+line on 6
